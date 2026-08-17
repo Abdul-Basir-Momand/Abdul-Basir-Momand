@@ -133,27 +133,4 @@ A repository created for testing, experimentation, and development practice.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Basir-Momand&layout=compact&hide_border=true)
 
----
 
-## 🎯 What I Do
-
-┌─────────────────────────────────────────────┐
-│             Full-Stack Development          │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🔹 Backend Development                     │
-│     PHP • Laravel • REST APIs               │
-│                                             │
-│  🔹 Frontend Development                    │
-│     React • Vue • JavaScript                │
-│                                             │
-│  🔹 Mobile Development                      │
-│     React Native                            │
-│                                             │
-│  🔹 Database Development                    │
-│     MySQL                                   │
-│                                             │
-│  🔹 UI Development                          │
-│     Bootstrap • Tailwind CSS                │
-│                                             │
-└─────────────────────────────────────────────┘
