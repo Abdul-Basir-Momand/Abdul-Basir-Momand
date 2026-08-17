@@ -119,13 +119,6 @@ and examination-related processes.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdul-Basir-Momand&hide_border=true)
 
----
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Basir-Momand&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
