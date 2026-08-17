@@ -86,19 +86,4 @@ as a **Full-Stack Developer**.
 Working on software solutions and systems that support organizational
 and examination-related processes.
 
-## 📊 GitHub Contributions
 
-| 📅 Year | 🔥 Contributions | 💻 Focus |
-|---|---:|---|
-| 2026 | Active | Laravel • React.js • React Native |
-| 2025 | Active | PHP • Laravel • MySQL |
-| 2024 | Active | Web Development • PHP |
-| 2023 | Active | Web Development |
-
-### 📈 Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Basir-Momand&hide_border=true)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdul-Basir-Momand&hide_border=true)
