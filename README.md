@@ -86,62 +86,19 @@ as a **Full-Stack Developer**.
 Working on software solutions and systems that support organizational
 and examination-related processes.
 
----
+## 📊 GitHub Contributions
 
-## 📌 Featured Projects
+| 📅 Year | 🔥 Contributions | 💻 Focus |
+|---|---:|---|
+| 2026 | Active | Laravel • React.js • React Native |
+| 2025 | Active | PHP • Laravel • MySQL |
+| 2024 | Active | Web Development • PHP |
+| 2023 | Active | Web Development |
 
-### 🏢 ERP System
+### 📈 Contribution Activity
 
-Enterprise Resource Planning system designed to manage business processes
-and organizational operations.
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Basir-Momand&hide_border=true)
 
-**Technologies:**
+### 🔥 GitHub Streak
 
-`PHP` `Laravel` `MySQL`
-
-🔗 [View Repository](https://github.com/Abdul-Basir-Momand/erp_system)
-
----
-
-### 🏫 Marwan Web Project
-
-Institute Management Information System.
-
-**Technology:**
-
-`PHP`
-
-🔗 [View Repository](https://github.com/Abdul-Basir-Momand/marwan-web-project)
-
----
-
-### 🧪 Test Repository
-
-A repository created for testing, experimentation, and development practice.
-
-**Technology:**
-
-`HTML`
-
-🔗 [View Repository](https://github.com/Abdul-Basir-Momand/Test-Repositry)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Basir-Momand&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Basir-Momand&layout=compact&hide_border=true)
-
-
-## 📂 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| 🏢 [ERP System](https://github.com/Abdul-Basir-Momand/erp_system) | Enterprise Resource Planning System | Laravel |
-| 🏢 [Baba Company](https://github.com/Abdul-Basir-Momand/baba-company) | Company / Business Management | Web |
-| 📊 [Maktobs MIS](https://github.com/Abdul-Basir-Momand/Maktobs-Mis) | Management Information System | Web |
-| 🏫 [Marwan Web Project](https://github.com/Abdul-Basir-Momand/marwan-web-project) | Institute Management Information System | PHP |
-| ⚙️ [Filament Project](https://github.com/Abdul-Basir-Momand/filament_project) | Laravel Filament Project | Laravel / Filament |
-| 🧪 [Test Repository](https://github.com/Abdul-Basir-Momand/Test-Repositry) | Testing & Experimentation | HTML |
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdul-Basir-Momand&hide_border=true)
