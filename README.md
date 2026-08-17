@@ -134,3 +134,14 @@ A repository created for testing, experimentation, and development practice.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Basir-Momand&layout=compact&hide_border=true)
 
 
+## 📂 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| 🏢 [ERP System](https://github.com/Abdul-Basir-Momand/erp_system) | Enterprise Resource Planning System | Laravel |
+| 🏢 [Baba Company](https://github.com/Abdul-Basir-Momand/baba-company) | Company / Business Management | Web |
+| 📊 [Maktobs MIS](https://github.com/Abdul-Basir-Momand/Maktobs-Mis) | Management Information System | Web |
+| 🏫 [Marwan Web Project](https://github.com/Abdul-Basir-Momand/marwan-web-project) | Institute Management Information System | PHP |
+| ⚙️ [Filament Project](https://github.com/Abdul-Basir-Momand/filament_project) | Laravel Filament Project | Laravel / Filament |
+| 🧪 [Test Repository](https://github.com/Abdul-Basir-Momand/Test-Repositry) | Testing & Experimentation | HTML |
+
